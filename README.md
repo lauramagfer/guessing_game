@@ -1,5 +1,6 @@
 # guessing_game
 
+
 O projeto documentado consiste em um "jogo de adivinhação". 
 
 ---
@@ -13,8 +14,9 @@ O projeto documentado consiste em um "jogo de adivinhação".
 
 <img width="578" height="409" alt="image" src="https://github.com/user-attachments/assets/ab438209-b5b9-4afb-9f41-c97ff18e7627" />
 <br>
+<br>
 Deve-se destacar que o número correto é gerado automaticamente pelo sistema, por meio da classe Random, a cada vez que o código é compilado para bytecode (se for requisitado apenas a interpretação, o número gerado permanecerá o mesmmo).
-
+<br>
 <img width="305" height="36" alt="image" src="https://github.com/user-attachments/assets/f770968c-7204-485a-b270-d487de111287" /><br>
 <img width="434" height="25" alt="image" src="https://github.com/user-attachments/assets/0162bc36-1200-4e19-848a-75a3238b2f68" />
 
