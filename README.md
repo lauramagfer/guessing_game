@@ -22,7 +22,7 @@ Deve-se destacar que o número correto é gerado automaticamente pelo sistema, p
 <br>
 <br>
 3)  Se o número inserido pelo usuário estiver acima ou abaixo do valor, o programa avisará para auxiliar o jogador a acertar sua aposta:
-
+<br>
 <img width="635" height="740" alt="image" src="https://github.com/user-attachments/assets/64e44154-7b50-4d77-a9a1-5be574314df2" />
 
 ---
