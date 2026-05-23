@@ -1,6 +1,7 @@
 # guessing_game
 
 O projeto documentado consiste em um "jogo de adivinhação". 
+
 ---
 ### Funcionamento
 
